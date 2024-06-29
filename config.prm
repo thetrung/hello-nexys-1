@@ -1,0 +1,11 @@
+===================================
+Configuration Memory information
+===================================
+File Format        BIN
+Interface          SPIX1
+Size               32M
+Start Address      0x00000000
+End Address        0x01FFFFFF
+
+Addr1         Addr2         Date                    File(s)
+0x00000000    0x000DAA83    Jun 29 22:47:05 2024    /home/deulamco/Documents/FPGAs/hello-nexys-1/hello-nexys-1.runs/impl_1/top.bit
